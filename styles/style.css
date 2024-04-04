@@ -3840,7 +3840,7 @@ button {
   height: 10000px;
   background-repeat: repeat-y;
   background-position: center;
-  background: url("https://background-video.cdn-playboy.pages.dev/BG.mp4");
+  background-image: url("../images/walk.jpg");
   animation: infibg 700s infinite;
 }
 
