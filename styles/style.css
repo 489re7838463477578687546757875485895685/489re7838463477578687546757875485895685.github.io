@@ -3829,7 +3829,7 @@ button {
   }
 }
 .walk-card {
-  z-index: 2;
+  z-index: 1;
 }
 
 .walk-bg {
@@ -3838,7 +3838,7 @@ button {
   left: 0px;
   right: 0px;
   height: 10000px;
-  background-repeat: repeat-y;
+  background-repeat: initial;
   background-position: center;
   background-image: url("../images/walk.jpg");
   animation: infibg 700s infinite;
@@ -3856,7 +3856,7 @@ button {
   z-index: 1;
   top: 0px;
   position: fixed;
-  left: 0px;
+  left: px;
   right: 0px;
   height: 600px;
 }
